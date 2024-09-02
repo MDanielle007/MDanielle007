@@ -2,14 +2,14 @@
 
 **Aspiring Web Developer | Software Engineer | Mobile Developer**
 
-Hello! I am Marc Danielle M. Cabatay, a 3rd Year BSIT student and an aspiring Web Developer, Software Engineer, and Mobile Developer. I enjoy programming and look forward to contributing to the future of technology.
+Hello! I am Marc Danielle M. Cabatay, a 4th Year BSIT student and an aspiring Web Developer, Software Engineer, and Mobile Developer. I enjoy programming and look forward to contributing to the future of technology.
 
 ## About Me
 
 I believe that everyone has a story to tell, and as a college student, I am constantly learning and growing. This portfolio showcases my skills and passion for web development, software engineering, and mobile development.
 
 - **Location:** Water, Baco, Oriental Mindoro
-- **Education:** 3rd Year BSIT at Mindoro State University - Calapan City Campus
+- **Education:** 4th Year BSIT at Mindoro State University - Calapan City Campus
 - **Contact:** [marc.danielle.cabatay219@gmail.com](mailto:marc.danielle.cabatay219@gmail.com)
 
 ## Interests
