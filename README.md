@@ -104,15 +104,6 @@ When I’m not debugging or caffeinating, you’ll find me exploring new tech tr
 
 ---
 
-## 📊 GitHub Stats Dashboard
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MDanielle007&show_icons=true&theme=radical&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MDanielle007&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MDanielle007&theme=radical)
-[![ Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MDanielle007&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 ## 📖 About Me
 
 I believe that everyone has a story to tell, and as a college student, I’m constantly learning and growing. This portfolio is a glimpse into my journey as a developer, showcasing my skills, projects, and passion for technology.
