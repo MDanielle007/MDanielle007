@@ -9,7 +9,7 @@
 
 ## 👋 Hello World!
 
-I’m **Marc Danielle M. Cabatay**, a 4th-year BSIT student at **Mindoro State University - Calapan City Campus**. I’m passionate about building things that live on the internet, whether it’s websites, applications, or solving real-world problems with code. I’m on a mission to contribute to the future of technology, one line of code at a time.
+I’m **Marc Danielle M. Cabatay**, a BSIT fresh graduate at **Mindoro State University - Calapan City Campus**. I’m passionate about building things that live on the internet, whether it’s websites, applications, or solving real-world problems with code. I’m on a mission to contribute to the future of technology, one line of code at a time.
 
 When I’m not debugging or caffeinating, you’ll find me exploring new tech trends, learning new frameworks, or daydreaming about the next big thing in software development. Let’s build something amazing together!
 
@@ -108,7 +108,7 @@ When I’m not debugging or caffeinating, you’ll find me exploring new tech tr
 
 I believe that everyone has a story to tell, and as a college student, I’m constantly learning and growing. This portfolio is a glimpse into my journey as a developer, showcasing my skills, projects, and passion for technology.
 
-- **Education:** 4th Year BSIT at **Mindoro State University - Calapan City Campus**  
+- **Education:** BSIT at **Mindoro State University - Calapan City Campus**  
 - **Contact:** 📧 [marc.danielle.cabatay219@gmail.com](mailto:marc.danielle.cabatay219@gmail.com)  
 - **Fun Fact:** I once fixed a bug in my dream. Yes, I dream in code. 💻✨
 
